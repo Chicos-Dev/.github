@@ -1,7 +1,7 @@
 {
     "name": "Chicos FAS PR Workflow",
     "description": "Chicos FAS PR workflow template.",
-    "iconName": "example-icon",
+    "iconName": "nodejs",
     "categories": [
         "JavaScript"
     ],
